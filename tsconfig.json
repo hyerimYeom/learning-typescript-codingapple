@@ -1,6 +1,8 @@
 {
+    //ts->js 컴파일옵션
     "compilerOptions": {
         "target": "ES5", //es3(예전), esnext (최신js)
-        "module": "commonjs"
+        "module": "commonjs",
+          
     }
 }
